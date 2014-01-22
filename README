@@ -1,3 +1,9 @@
-First revision
+A program that gives you your chances of going home a winner or going home bankrupt when you play the American Roulette game at the Casino. This program assumes that you are utilizing the Martingale or “double your bet” strategy.
 
-NonFunctional as of now
+Inputs: 
+	startingBet = The starting bet or bet increment you plan to go with based on the
+	amountToSpend = amount you’re winning to spend.
+	amountDesired = The goal amount that you wish to leave the casino with before you stop playing
+
+Outputs: Your odds of winning or losing all your money
+	
